@@ -1,5 +1,4 @@
 var OSinfo = require('../modules/OSinfo');
-var timeConverter = require('../modules/timeConventer');
 
 process.stdin.setEncoding('utf-8');
 process.stdin.on('readable', function () {
